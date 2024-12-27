@@ -27,12 +27,12 @@ export default function Portfolio() {
           <div className="container">
             <div className="row">
               {[
-                "/src/assets/poert1.png",
-                "/src/assets/port2.png",
-                "/src/assets/port3.png",
-                "/src/assets/port2.png",
-                "/src/assets/poert1.png",
-                "/src/assets/port2.png",
+                "public/assets/images/poert1.png",
+                "public/assets/images/port2.png",
+                "public/assets/images/port3.png",
+                "public/assets/images/port2.png",
+                "public/assets/images/poert1.png",
+                "public/assets/images/port2.png",
               ].map((img, index) => (
                 <div className="col-md-4" key={index}>
                   <div className="card">
