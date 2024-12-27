@@ -2,7 +2,7 @@
   "name": "app1",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Hatoosh19.github.io/startFrameWork",
+  "homepage": "https://github.com/Hatoosh19/framWork.git",
   "type": "module",
   "scripts": {
     "dev": "vite",
